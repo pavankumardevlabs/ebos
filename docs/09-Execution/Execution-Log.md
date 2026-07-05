@@ -26,3 +26,10 @@
 - Complete README
 - Decide first open-source project
 - Publish first LinkedIn post
+
+### Decision
+
+Identified manual documentation as a bottleneck.
+
+Decision:
+EBOS Agent will be built as an internal platform to automate documentation, Git synchronization, and AI context management.
