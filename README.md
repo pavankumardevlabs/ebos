@@ -6,7 +6,7 @@
 
 ## What is EBOS?
 
-EBOS (Engineering Builder Operating System) is the single source of truth for building Engineering Builder.
+Engineering Builder Operating System (EBOS) is the operating model for Engineering Builder Labs. It defines how we think, build, learn, document, release, and grow engineering products, open-source projects, and the business itself.
 
 It captures our vision, principles, product ideas, architecture, engineering decisions, learning, execution, and public assets.
 
