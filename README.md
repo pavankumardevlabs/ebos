@@ -91,7 +91,7 @@ Current Objectives
 - Complete LinkedIn branding
 - Build EBOS v0.1
 - Publish first LinkedIn post
-- Identify first open-source project
+- Design Engineering Builder Assertions (EBA)
 ---
 
 Version: 0.1
