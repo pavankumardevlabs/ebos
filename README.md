@@ -82,7 +82,16 @@ Focus:
 - Open Source
 - Product Discovery
 - Engineering Assets
+## Current Sprint
 
+Sprint 1 - Foundation
+
+Current Objectives
+
+- Complete LinkedIn branding
+- Build EBOS v0.1
+- Publish first LinkedIn post
+- Identify first open-source project
 ---
 
 Version: 0.1
