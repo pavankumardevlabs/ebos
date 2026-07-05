@@ -35,3 +35,6 @@ Build an MVP.
 ### Community
 
 Build trust within the engineering community through useful contributions.
+## Internal Platforms
+
+Build EBOS Agent to automate project management, documentation, and AI-assisted engineering workflows.
