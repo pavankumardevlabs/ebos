@@ -1,13 +1,19 @@
-# Open Source
+Open Source Strategy
 
 Purpose
-- Outline the open-source strategy, contribution process, and licensing notes.
 
-Suggested sections
-- Why we open-source this project
-- Contribution guidelines
-- Licensing and CLA (if any)
-- Community channels and support
+Engineering Builder Labs builds practical open-source
+engineering tools.
 
-TODO
-- Add CONTRIBUTING links, license details, and issue templates.
+Objectives
+
+- Solve real engineering problems
+- Build reusable components
+- Create public engineering assets
+- Build community trust
+- Support future products
+
+Current Projects
+
+- Engineering Builder Assertions (Planning)
+- Playwright Codegen BDD Generator (Backlog)
